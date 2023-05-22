@@ -1,13 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" id="flag-icons-bs" viewBox="0 0 640 480">
-  <defs>
-    <clipPath id="a">
-      <path fill-opacity=".7" d="M-12 0h640v480H-12z"/>
-    </clipPath>
-  </defs>
-  <g fill-rule="evenodd" clip-path="url(#a)" transform="translate(12)">
-    <path fill="#fff" d="M968.5 480h-979V1.8h979z"/>
-    <path fill="#ffe900" d="M968.5 344.5h-979V143.3h979z"/>
-    <path fill="#08ced6" d="M968.5 480h-979V320.6h979zm0-318.7h-979V2h979z"/>
-    <path d="M-11 0c2.3 0 391.8 236.8 391.8 236.8L-12 479.2-10.9 0z"/>
-  </g>
-</svg>
+data:image/svg+xml,data%3Aimage%2Fsvg%2Bxml%2C%253Csvg%2520xmlns%253D%2522http%253A%252F%252Fwww.w3.org%252F2000%252Fsvg%2522%2520viewBox%253D%25220%25200%2520640%2520480%2522%253E%253Cdefs%253E%253CclipPath%2520id%253D%2522a%2522%253E%253Cpath%2520fill-opacity%253D%2522.7%2522%2520d%253D%2522M-12%25200h640v480H-12z%2522%252F%253E%253C%252FclipPath%253E%253C%252Fdefs%253E%253Cg%2520fill-rule%253D%2522evenodd%2522%2520clip-path%253D%2522url(%2523a)%2522%2520transform%253D%2522translate(12)%2522%253E%253Cpath%2520fill%253D%2522%2523fff%2522%2520d%253D%2522M968.5%2520480h-979V1.8h979z%2522%252F%253E%253Cpath%2520fill%253D%2522%2523ffe900%2522%2520d%253D%2522M968.5%2520344.5h-979V143.3h979z%2522%252F%253E%253Cpath%2520fill%253D%2522%252308ced6%2522%2520d%253D%2522M968.5%2520480h-979V320.6h979zm0-318.7h-979V2h979z%2522%252F%253E%253Cpath%2520d%253D%2522M-11%25200c2.3%25200%2520391.8%2520236.8%2520391.8%2520236.8L-12%2520479.2-10.9%25200z%2522%252F%253E%253C%252Fg%253E%253C%252Fsvg%253E

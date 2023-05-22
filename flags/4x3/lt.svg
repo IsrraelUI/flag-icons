@@ -1,7 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" id="flag-icons-lt" viewBox="0 0 640 480">
-  <g fill-rule="evenodd" stroke-width="1pt" transform="scale(.64143 .96773)">
-    <rect width="1063" height="708.7" fill="#006a44" rx="0" ry="0" transform="scale(.93865 .69686)"/>
-    <rect width="1063" height="236.2" y="475.6" fill="#c1272d" rx="0" ry="0" transform="scale(.93865 .69686)"/>
-    <path fill="#fdb913" d="M0 0h997.8v164.6H0z"/>
-  </g>
-</svg>
+data:image/svg+xml,data%3Aimage%2Fsvg%2Bxml%2C%253Csvg%2520xmlns%253D%2522http%253A%252F%252Fwww.w3.org%252F2000%252Fsvg%2522%2520viewBox%253D%25220%25200%2520640%2520480%2522%253E%253Cg%2520fill-rule%253D%2522evenodd%2522%2520stroke-width%253D%25221pt%2522%2520transform%253D%2522scale(.64143%2520.96773)%2522%253E%253Crect%2520width%253D%25221063%2522%2520height%253D%2522708.7%2522%2520fill%253D%2522%2523006a44%2522%2520rx%253D%25220%2522%2520ry%253D%25220%2522%2520transform%253D%2522scale(.93865%2520.69686)%2522%252F%253E%253Crect%2520width%253D%25221063%2522%2520height%253D%2522236.2%2522%2520y%253D%2522475.6%2522%2520fill%253D%2522%2523c1272d%2522%2520rx%253D%25220%2522%2520ry%253D%25220%2522%2520transform%253D%2522scale(.93865%2520.69686)%2522%252F%253E%253Cpath%2520fill%253D%2522%2523fdb913%2522%2520d%253D%2522M0%25200h997.8v164.6H0z%2522%252F%253E%253C%252Fg%253E%253C%252Fsvg%253E

@@ -1,18 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="flag-icons-hn" viewBox="0 0 512 512">
-  <path fill="#18c3df" d="M0 0h512v512H0z"/>
-  <path fill="#fff" d="M0 170.7h512v170.6H0z"/>
-  <g id="c" fill="#18c3df" transform="translate(256 256) scale(28.44446)">
-    <g id="b">
-      <path id="a" d="m0-1-.3 1 .5.1z"/>
-      <use xlink:href="#a" width="100%" height="100%" transform="scale(-1 1)"/>
-    </g>
-    <use xlink:href="#b" width="100%" height="100%" transform="rotate(72)"/>
-    <use xlink:href="#b" width="100%" height="100%" transform="rotate(-72)"/>
-    <use xlink:href="#b" width="100%" height="100%" transform="rotate(144)"/>
-    <use xlink:href="#b" width="100%" height="100%" transform="rotate(-144)"/>
-  </g>
-  <use xlink:href="#c" width="100%" height="100%" transform="translate(142.2 -45.5)"/>
-  <use xlink:href="#c" width="100%" height="100%" transform="translate(142.2 39.8)"/>
-  <use xlink:href="#c" width="100%" height="100%" transform="translate(-142.2 -45.5)"/>
-  <use xlink:href="#c" width="100%" height="100%" transform="translate(-142.2 39.8)"/>
-</svg>
+data:image/svg+xml,data%3Aimage%2Fsvg%2Bxml%2C%253Csvg%2520xmlns%253D%2522http%253A%252F%252Fwww.w3.org%252F2000%252Fsvg%2522%2520xmlns%253Axlink%253D%2522http%253A%252F%252Fwww.w3.org%252F1999%252Fxlink%2522%2520viewBox%253D%25220%25200%2520512%2520512%2522%253E%253Cpath%2520fill%253D%2522%252318c3df%2522%2520d%253D%2522M0%25200h512v512H0z%2522%252F%253E%253Cpath%2520fill%253D%2522%2523fff%2522%2520d%253D%2522M0%2520170.7h512v170.6H0z%2522%252F%253E%253Cg%2520id%253D%2522c%2522%2520fill%253D%2522%252318c3df%2522%2520transform%253D%2522translate(256%2520256)%2520scale(28.44446)%2522%253E%253Cg%2520id%253D%2522b%2522%253E%253Cpath%2520id%253D%2522a%2522%2520d%253D%2522m0-1-.3%25201%2520.5.1z%2522%252F%253E%253Cuse%2520xlink%253Ahref%253D%2522%2523a%2522%2520width%253D%2522100%2525%2522%2520height%253D%2522100%2525%2522%2520transform%253D%2522scale(-1%25201)%2522%252F%253E%253C%252Fg%253E%253Cuse%2520xlink%253Ahref%253D%2522%2523b%2522%2520width%253D%2522100%2525%2522%2520height%253D%2522100%2525%2522%2520transform%253D%2522rotate(72)%2522%252F%253E%253Cuse%2520xlink%253Ahref%253D%2522%2523b%2522%2520width%253D%2522100%2525%2522%2520height%253D%2522100%2525%2522%2520transform%253D%2522rotate(-72)%2522%252F%253E%253Cuse%2520xlink%253Ahref%253D%2522%2523b%2522%2520width%253D%2522100%2525%2522%2520height%253D%2522100%2525%2522%2520transform%253D%2522rotate(144)%2522%252F%253E%253Cuse%2520xlink%253Ahref%253D%2522%2523b%2522%2520width%253D%2522100%2525%2522%2520height%253D%2522100%2525%2522%2520transform%253D%2522rotate(-144)%2522%252F%253E%253C%252Fg%253E%253Cuse%2520xlink%253Ahref%253D%2522%2523c%2522%2520width%253D%2522100%2525%2522%2520height%253D%2522100%2525%2522%2520transform%253D%2522translate(142.2%2520-45.5)%2522%252F%253E%253Cuse%2520xlink%253Ahref%253D%2522%2523c%2522%2520width%253D%2522100%2525%2522%2520height%253D%2522100%2525%2522%2520transform%253D%2522translate(142.2%252039.8)%2522%252F%253E%253Cuse%2520xlink%253Ahref%253D%2522%2523c%2522%2520width%253D%2522100%2525%2522%2520height%253D%2522100%2525%2522%2520transform%253D%2522translate(-142.2%2520-45.5)%2522%252F%253E%253Cuse%2520xlink%253Ahref%253D%2522%2523c%2522%2520width%253D%2522100%2525%2522%2520height%253D%2522100%2525%2522%2520transform%253D%2522translate(-142.2%252039.8)%2522%252F%253E%253C%252Fsvg%253E

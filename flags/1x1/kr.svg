@@ -1,17 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="flag-icons-kr" viewBox="0 0 512 512">
-  <path fill="#fff" fill-rule="evenodd" d="M0 0h512v512H0Z"/>
-  <g fill-rule="evenodd" transform="rotate(-56.3 367.2 -111.2) scale(9.375)">
-    <g id="b">
-      <path id="a" d="M-6-26H6v2H-6Zm0 3H6v2H-6Zm0 3H6v2H-6Z"/>
-      <use xlink:href="#a" width="100%" height="100%" y="44"/>
-    </g>
-    <path stroke="#fff" d="M0 17v10"/>
-    <path fill="#cd2e3a" d="M0-12a12 12 0 0 1 0 24Z"/>
-    <path fill="#0047a0" d="M0-12a12 12 0 0 0 0 24A6 6 0 0 0 0 0Z"/>
-    <circle cy="-6" r="6" fill="#cd2e3a"/>
-  </g>
-  <g fill-rule="evenodd" transform="rotate(-123.7 196.5 59.5) scale(9.375)">
-    <use xlink:href="#b" width="100%" height="100%"/>
-    <path stroke="#fff" d="M0-23.5v3M0 17v3.5m0 3v3"/>
-  </g>
-</svg>
+data:image/svg+xml,data%3Aimage%2Fsvg%2Bxml%2C%253Csvg%2520xmlns%253D%2522http%253A%252F%252Fwww.w3.org%252F2000%252Fsvg%2522%2520xmlns%253Axlink%253D%2522http%253A%252F%252Fwww.w3.org%252F1999%252Fxlink%2522%2520viewBox%253D%25220%25200%2520512%2520512%2522%253E%253Cpath%2520fill%253D%2522%2523fff%2522%2520fill-rule%253D%2522evenodd%2522%2520d%253D%2522M0%25200h512v512H0Z%2522%252F%253E%253Cg%2520fill-rule%253D%2522evenodd%2522%2520transform%253D%2522rotate(-56.3%2520367.2%2520-111.2)%2520scale(9.375)%2522%253E%253Cg%2520id%253D%2522b%2522%253E%253Cpath%2520id%253D%2522a%2522%2520d%253D%2522M-6-26H6v2H-6Zm0%25203H6v2H-6Zm0%25203H6v2H-6Z%2522%252F%253E%253Cuse%2520xlink%253Ahref%253D%2522%2523a%2522%2520width%253D%2522100%2525%2522%2520height%253D%2522100%2525%2522%2520y%253D%252244%2522%252F%253E%253C%252Fg%253E%253Cpath%2520stroke%253D%2522%2523fff%2522%2520d%253D%2522M0%252017v10%2522%252F%253E%253Cpath%2520fill%253D%2522%2523cd2e3a%2522%2520d%253D%2522M0-12a12%252012%25200%25200%25201%25200%252024Z%2522%252F%253E%253Cpath%2520fill%253D%2522%25230047a0%2522%2520d%253D%2522M0-12a12%252012%25200%25200%25200%25200%252024A6%25206%25200%25200%25200%25200%25200Z%2522%252F%253E%253Ccircle%2520cy%253D%2522-6%2522%2520r%253D%25226%2522%2520fill%253D%2522%2523cd2e3a%2522%252F%253E%253C%252Fg%253E%253Cg%2520fill-rule%253D%2522evenodd%2522%2520transform%253D%2522rotate(-123.7%2520196.5%252059.5)%2520scale(9.375)%2522%253E%253Cuse%2520xlink%253Ahref%253D%2522%2523b%2522%2520width%253D%2522100%2525%2522%2520height%253D%2522100%2525%2522%252F%253E%253Cpath%2520stroke%253D%2522%2523fff%2522%2520d%253D%2522M0-23.5v3M0%252017v3.5m0%25203v3%2522%252F%253E%253C%252Fg%253E%253C%252Fsvg%253E

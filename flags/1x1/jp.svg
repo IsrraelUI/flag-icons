@@ -1,11 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" id="flag-icons-jp" viewBox="0 0 512 512">
-  <defs>
-    <clipPath id="a">
-      <path fill-opacity=".7" d="M177.2 0h708.6v708.7H177.2z"/>
-    </clipPath>
-  </defs>
-  <g fill-rule="evenodd" stroke-width="1pt" clip-path="url(#a)" transform="translate(-128) scale(.72249)">
-    <path fill="#fff" d="M0 0h1063v708.7H0z"/>
-    <circle cx="523.1" cy="344.1" r="194.9" fill="#bc002d" transform="translate(-59.7 -34.5) scale(1.1302)"/>
-  </g>
-</svg>
+data:image/svg+xml,data%3Aimage%2Fsvg%2Bxml%2C%253Csvg%2520xmlns%253D%2522http%253A%252F%252Fwww.w3.org%252F2000%252Fsvg%2522%2520viewBox%253D%25220%25200%2520512%2520512%2522%253E%253Cdefs%253E%253CclipPath%2520id%253D%2522a%2522%253E%253Cpath%2520fill-opacity%253D%2522.7%2522%2520d%253D%2522M177.2%25200h708.6v708.7H177.2z%2522%252F%253E%253C%252FclipPath%253E%253C%252Fdefs%253E%253Cg%2520fill-rule%253D%2522evenodd%2522%2520stroke-width%253D%25221pt%2522%2520clip-path%253D%2522url(%2523a)%2522%2520transform%253D%2522translate(-128)%2520scale(.72249)%2522%253E%253Cpath%2520fill%253D%2522%2523fff%2522%2520d%253D%2522M0%25200h1063v708.7H0z%2522%252F%253E%253Ccircle%2520cx%253D%2522523.1%2522%2520cy%253D%2522344.1%2522%2520r%253D%2522194.9%2522%2520fill%253D%2522%2523bc002d%2522%2520transform%253D%2522translate(-59.7%2520-34.5)%2520scale(1.1302)%2522%252F%253E%253C%252Fg%253E%253C%252Fsvg%253E

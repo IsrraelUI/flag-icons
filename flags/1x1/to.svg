@@ -1,10 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" id="flag-icons-to" viewBox="0 0 512 512">
-  <g fill-rule="evenodd" stroke-width="1pt">
-    <path fill="#c10000" d="M0 0h512v512H0z"/>
-    <path fill="#fff" d="M0 0h218.3v175H0z"/>
-    <g fill="#c10000">
-      <path d="M89.8 27.3h34.8v121.9H89.8z"/>
-      <path d="M168.2 70.8v34.8H46.3V70.8z"/>
-    </g>
-  </g>
-</svg>
+data:image/svg+xml,data%3Aimage%2Fsvg%2Bxml%2C%253Csvg%2520xmlns%253D%2522http%253A%252F%252Fwww.w3.org%252F2000%252Fsvg%2522%2520viewBox%253D%25220%25200%2520512%2520512%2522%253E%253Cg%2520fill-rule%253D%2522evenodd%2522%2520stroke-width%253D%25221pt%2522%253E%253Cpath%2520fill%253D%2522%2523c10000%2522%2520d%253D%2522M0%25200h512v512H0z%2522%252F%253E%253Cpath%2520fill%253D%2522%2523fff%2522%2520d%253D%2522M0%25200h218.3v175H0z%2522%252F%253E%253Cg%2520fill%253D%2522%2523c10000%2522%253E%253Cpath%2520d%253D%2522M89.8%252027.3h34.8v121.9H89.8z%2522%252F%253E%253Cpath%2520d%253D%2522M168.2%252070.8v34.8H46.3V70.8z%2522%252F%253E%253C%252Fg%253E%253C%252Fg%253E%253C%252Fsvg%253E

@@ -13,7 +13,7 @@
   line-height: 1em;
 }
 .fi:before {
-  content: '\00a0';
+  content: "\00a0";
 }
 .fi.fis {
   width: 1em;

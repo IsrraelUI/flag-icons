@@ -1,4 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" id="flag-icons-xx" viewBox="0 0 512 512">
-  <path fill="#fff" fill-rule="evenodd" stroke="#adb5bd" d="M.5.5h511v511H.5z"/>
-  <path fill="none" stroke="#adb5bd" d="m.5.5 511 511M511.5.5l-511 511"/>
-</svg>
+data:image/svg+xml,data%3Aimage%2Fsvg%2Bxml%2C%253Csvg%2520xmlns%253D%2522http%253A%252F%252Fwww.w3.org%252F2000%252Fsvg%2522%2520viewBox%253D%25220%25200%2520512%2520512%2522%253E%253Cpath%2520fill%253D%2522%2523fff%2522%2520fill-rule%253D%2522evenodd%2522%2520stroke%253D%2522%2523adb5bd%2522%2520d%253D%2522M.5.5h511v511H.5z%2522%252F%253E%253Cpath%2520fill%253D%2522none%2522%2520stroke%253D%2522%2523adb5bd%2522%2520d%253D%2522m.5.5%2520511%2520511m0-511-511%2520511%2522%252F%253E%253C%252Fsvg%253E

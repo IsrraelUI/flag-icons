@@ -1,4 +1,5 @@
 module.exports = {
+  datauri: 'enc',
   plugins: [
     {
       name: "preset-default",

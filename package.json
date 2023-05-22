@@ -1,24 +1,26 @@
 {
-  "name": "flag-icons",
-  "version": "6.6.6",
-  "author": "Panayiotis Lipiridis <lipiridis@gmail.com>",
+  "name": "flag-icons-base64",
+  "version": "1.0.0",
+  "author": "Panayiotis Lipiridis <lipiridis@gmail.com>; Isrrael Gutierrez <isrrael.gutierrez@yahoo.com.mx>",
   "license": "MIT",
   "main": "css/flag-icons.css",
   "repository": {
     "type": "git",
-    "url": "http://github.com/lipis/flag-icons"
+    "url": "http://github.com/IsrraelUI/flag-icons"
   },
   "files": [
     "css",
     "flags",
     "less",
     "sass",
-    "country.json"
+    "country.json",
+    "flags.ts"
   ],
   "devDependencies": {
     "http-server": "14.1.1",
     "less": "4.1.3",
     "prettier": "2.8.8",
+    "svg-to-dataurl": "^1.0.0",
     "svgo": "3.0.2"
   },
   "scripts": {
@@ -31,7 +33,7 @@
     "start": "http-server -a localhost -p 8000",
     "svgo:all": "find flags | grep '\\.svg$' | xargs -Iz -n 1 yarn svgo z && yarn ids",
     "svgo:min": "find flags | grep '\\.svg$' | xargs -Iz -n 1 svgo z && yarn ids",
-    "svgo": "svgo --pretty --indent=2 --precision=1",
+    "svgo": "svgo  --indent=2 --precision=1",
     "test": "yarn prettier --list-different"
   }
 }

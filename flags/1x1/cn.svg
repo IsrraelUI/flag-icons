@@ -1,11 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="flag-icons-cn" viewBox="0 0 512 512">
-  <defs>
-    <path id="a" fill="#ff0" d="M1-.3-.7.8 0-1 .6.8-1-.3z"/>
-  </defs>
-  <path fill="#ee1c25" d="M0 0h512v512H0z"/>
-  <use xlink:href="#a" width="30" height="20" transform="matrix(76.8 0 0 76.8 128 128)"/>
-  <use xlink:href="#a" width="30" height="20" transform="rotate(-121 142.6 -47) scale(25.5827)"/>
-  <use xlink:href="#a" width="30" height="20" transform="rotate(-98.1 198 -82) scale(25.6)"/>
-  <use xlink:href="#a" width="30" height="20" transform="rotate(-74 272.4 -114) scale(25.6137)"/>
-  <use xlink:href="#a" width="30" height="20" transform="matrix(16 -19.968 19.968 16 256 230.4)"/>
-</svg>
+data:image/svg+xml,data%3Aimage%2Fsvg%2Bxml%2C%253Csvg%2520xmlns%253D%2522http%253A%252F%252Fwww.w3.org%252F2000%252Fsvg%2522%2520xmlns%253Axlink%253D%2522http%253A%252F%252Fwww.w3.org%252F1999%252Fxlink%2522%2520viewBox%253D%25220%25200%2520512%2520512%2522%253E%253Cdefs%253E%253Cpath%2520id%253D%2522a%2522%2520fill%253D%2522%2523ff0%2522%2520d%253D%2522M1-.3-.7.8%25200-1%2520.6.8-1-.3z%2522%252F%253E%253C%252Fdefs%253E%253Cpath%2520fill%253D%2522%2523ee1c25%2522%2520d%253D%2522M0%25200h512v512H0z%2522%252F%253E%253Cuse%2520xlink%253Ahref%253D%2522%2523a%2522%2520width%253D%252230%2522%2520height%253D%252220%2522%2520transform%253D%2522matrix(76.8%25200%25200%252076.8%2520128%2520128)%2522%252F%253E%253Cuse%2520xlink%253Ahref%253D%2522%2523a%2522%2520width%253D%252230%2522%2520height%253D%252220%2522%2520transform%253D%2522rotate(-121%2520142.6%2520-47)%2520scale(25.5827)%2522%252F%253E%253Cuse%2520xlink%253Ahref%253D%2522%2523a%2522%2520width%253D%252230%2522%2520height%253D%252220%2522%2520transform%253D%2522rotate(-98.1%2520198%2520-82)%2520scale(25.6)%2522%252F%253E%253Cuse%2520xlink%253Ahref%253D%2522%2523a%2522%2520width%253D%252230%2522%2520height%253D%252220%2522%2520transform%253D%2522rotate(-74%2520272.4%2520-114)%2520scale(25.6137)%2522%252F%253E%253Cuse%2520xlink%253Ahref%253D%2522%2523a%2522%2520width%253D%252230%2522%2520height%253D%252220%2522%2520transform%253D%2522matrix(16%2520-19.968%252019.968%252016%2520256%2520230.4)%2522%252F%253E%253C%252Fsvg%253E
